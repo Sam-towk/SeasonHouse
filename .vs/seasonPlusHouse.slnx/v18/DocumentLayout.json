@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Samuel\\Desktop\\Centro de Projetos\\SeasonHouseProjetoPatrick\\seasonPlusHouse\\",
+  "WorkspaceRootPath": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACDFDE54-9205-4F9E-B6BC-82BE73C813D4}|seasonPlusHouse.csproj|c:\\users\\samuel\\desktop\\centro de projetos\\seasonhouseprojetopatrick\\seasonplushouse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ACDFDE54-9205-4F9E-B6BC-82BE73C813D4}|seasonPlusHouse.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\view\\frmlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:view\\frmlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\view\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:view\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\code\\bll\\alugueltemporada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:code\\bll\\alugueltemporada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\view\\frmgerenciarimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:view\\frmgerenciarimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\view\\frmreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:view\\frmreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\view\\frmcadastroimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:view\\frmcadastroimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\view\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:view\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|c:\\users\\samuelserver\\desktop\\central de projetos\\seasonhouse\\seasonplushouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BFBEB7E-1782-503C-3BA1-BE909B858782}|seasonPlusHouse.csproj|solutionrelative:seasonplushouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +42,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AluguelTemporada.cs",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\CODE\\BLL\\AluguelTemporada.cs",
+              "RelativeDocumentMoniker": "CODE\\BLL\\AluguelTemporada.cs",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\CODE\\BLL\\AluguelTemporada.cs",
+              "RelativeToolTip": "CODE\\BLL\\AluguelTemporada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T21:14:26.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGerenciarImovel.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmGerenciarImovel.cs",
+              "RelativeDocumentMoniker": "View\\frmGerenciarImovel.cs",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmGerenciarImovel.cs [Projeto]",
+              "RelativeToolTip": "View\\frmGerenciarImovel.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:39:11.585Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReserva.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmReserva.cs",
+              "RelativeDocumentMoniker": "View\\frmReserva.cs",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmReserva.cs [Projeto]",
+              "RelativeToolTip": "View\\frmReserva.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:38:37.217Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCadastroImovel.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmCadastroImovel.cs",
+              "RelativeDocumentMoniker": "View\\frmCadastroImovel.cs",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmCadastroImovel.cs [Projeto]",
+              "RelativeToolTip": "View\\frmCadastroImovel.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:38:16.486Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Centro de Projetos\\SeasonHouseProjetoPatrick\\seasonPlusHouse\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Centro de Projetos\\SeasonHouseProjetoPatrick\\seasonPlusHouse\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Title": "frmLandingPage.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmLandingPage.cs",
+              "RelativeDocumentMoniker": "View\\frmLandingPage.cs",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\frmLandingPage.cs [Projeto]",
+              "RelativeToolTip": "View\\frmLandingPage.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:35:51.557Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.cs",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\LoginView.cs",
+              "RelativeDocumentMoniker": "View\\LoginView.cs",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\LoginView.cs",
+              "RelativeToolTip": "View\\LoginView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:33:19.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "seasonPlusHouse",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\seasonPlusHouse.csproj",
+              "RelativeDocumentMoniker": "seasonPlusHouse.csproj",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\seasonPlusHouse.csproj",
+              "RelativeToolTip": "seasonPlusHouse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T20:25:28.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginView.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\LoginView.cs",
+              "RelativeDocumentMoniker": "View\\LoginView.cs",
+              "ToolTip": "C:\\Users\\samuelServer\\Desktop\\central de projetos\\SeasonHouse\\View\\LoginView.cs [Projeto]",
+              "RelativeToolTip": "View\\LoginView.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T19:11:48.547Z",
               "EditorCaption": " [Projeto]"
