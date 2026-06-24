@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("seasonPlusHouse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+138239ac065de26b1b8be97a5abd4fac020938f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0587bba593a24e5ae8792935a9aaf698eb6366e")]
 [assembly: System.Reflection.AssemblyProductAttribute("seasonPlusHouse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("seasonPlusHouse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

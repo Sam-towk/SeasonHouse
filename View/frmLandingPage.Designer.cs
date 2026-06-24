@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            saveFileDialog1 = new SaveFileDialog();
             SuspendLayout();
             // 
             // frmLandingPage
@@ -41,5 +42,7 @@
         }
 
         #endregion
+
+        private SaveFileDialog saveFileDialog1;
     }
 }
